@@ -192,7 +192,7 @@ img {
   }
   .action_button {
     margin-top: 1.5vw;
-    padding: 11px 13px;
+    padding: 8px 13px;
   }
   .section1 {
     padding: 50px 58px;
@@ -228,10 +228,10 @@ img {
     font-size: 19px;
   }
   .info_button {
-    padding: 11px 13px;
+    padding: 8px 13px;
   }
   .buy_button {
-    padding: 11px 13px;
+    padding: 8px 13px;
   }
 }
 @media only screen and (min-width: 1023px) and (max-width: 1404px) {
@@ -258,7 +258,7 @@ img {
   }
   .action_button {
     margin-top: 1.5vw;
-    padding: 8px 9px;
+    padding: 5px 9px;
   }
   .section1 {
     padding: 46px 50px;
@@ -290,10 +290,10 @@ img {
     padding-bottom: 8vh;
   }
   .info_button {
-    padding: 8px 9px;
+    padding: 5px 9px;
   }
   .buy_button {
-    padding: 8px 9px;
+    padding: 5px 9px;
   }
   .buttons {
     font-size: 15px;
@@ -583,6 +583,7 @@ img {
     justify-content: center;
     margin: auto;
     padding-left: 0;
+    text-align: center;
   }
   .layout,
   .navlink1,
@@ -664,6 +665,7 @@ img {
   .navlinks {
     grid-template-columns: repeat(1, max-content);
     justify-content: center;
+    text-align: center;
     padding-left: 0;
   }
   .layout,
